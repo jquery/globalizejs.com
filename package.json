@@ -1,0 +1,29 @@
+{
+  "name": "globalize.com",
+  "title": "Globalize",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jquery/globalizejs.com",
+  "author": {
+    "name": "jQuery Foundation (http://jquery.org/)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jquery/globalizejs.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jquery/globalizejs.com/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "grunt": "0.3.17",
+    "grunt-clean": "0.3.0",
+    "grunt-wordpress": "1.2.1",
+    "grunt-jquery-content": "0.13.0",
+    "grunt-check-modules": "0.1.0"
+  }
+}
